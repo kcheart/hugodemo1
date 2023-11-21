@@ -1,0 +1,7 @@
+baseURL = 'https://kcheart.github.io/hugodemo1/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = 'PaperMod'
+
+publishDir = 'docs'
