@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kcheart.github.io/hugodemo1/categories/</loc>
+    <loc>https://kcheart.github.io/hugodemo1/posts/github-pages/</loc>
+    <lastmod>2023-11-21T16:29:12+08:00</lastmod>
   </url><url>
     <loc>https://kcheart.github.io/hugodemo1/</loc>
+    <lastmod>2023-11-21T16:29:12+08:00</lastmod>
+  </url><url>
+    <loc>https://kcheart.github.io/hugodemo1/posts/</loc>
+    <lastmod>2023-11-21T16:29:12+08:00</lastmod>
+  </url><url>
+    <loc>https://kcheart.github.io/hugodemo1/posts/my-first-post/</loc>
+    <lastmod>2023-11-21T16:29:00+08:00</lastmod>
+  </url><url>
+    <loc>https://kcheart.github.io/hugodemo1/categories/</loc>
   </url><url>
     <loc>https://kcheart.github.io/hugodemo1/tags/</loc>
   </url>
